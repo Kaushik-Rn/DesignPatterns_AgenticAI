@@ -1,1 +1,1 @@
-Implement API registration and function calling. Agent must parse schema to execute external tools
+API-driven execution where the LLM generates structured arguments to interact with external code or databases.
