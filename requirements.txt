@@ -1,0 +1,6 @@
+streamlit
+asyncio
+google-adk
+litellm
+google-genai
+python-dotenv
